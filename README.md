@@ -56,7 +56,7 @@ I'm curently interested into everything that is around data science models: MLop
 
 ### 💡 **Projects**
 #### **Blinkit Sales and Operations**
-- Built an end-to-end RAG system using Streamlit, Google GenAI, and LangChain, achieving 90% accuracy in query responses.
+- Designed a robust e-commerce dashboard for Blinkit using Power BI, DAX, and MySQL, achieving 30% improved sales forecasting accuracy and a 25% reduction in service delays. Delivered actionable insights through interactive visualizations, enhancing logistics and stakeholder decision-making.
 
 #### **Predicting News Popularity**
 - Designed a deep learning model with DenseNet201 for image classification, achieving 80% accuracy through transfer learning.
