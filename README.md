@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 🔍 Business Intelligence Specialist | Data Analyst | 📊 Data Scientist | Tableau Consultant | 💻 ML Engineer 
 
-Graduate student with 4.5 years as an Analyst, Passion about data-driven insights, Feel free to explore my repositories, where you'll find projects showcasing my skills and dedication to transforming raw data into actionable insights. Let's connect and collaborate on creating impactful solutions!
+Analyst with 4.5 years of experience, including a recent graduate degree in Management Information Systems. Passion about data-driven insights, Feel free to explore my repositories, where you'll find projects showcasing my skills and dedication to transforming raw data into actionable insights. Let's connect and collaborate on creating impactful solutions!
 I'm a Data Science Analyst with a strong background in MLops, cloud architecture, data analysis, model optimization, deployment pipelines, scalable API design for AI services, data visualization, time-series analysis and NLP/NLU tasks, both for research or industry
 
 I'm curently interested into everything that is around data science models: MLops, data engineering, DevOps and code quality, model integration/deployements via CICDs, etc.
