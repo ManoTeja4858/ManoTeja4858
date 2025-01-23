@@ -58,8 +58,8 @@ I'm curently interested into everything that is around data science models: MLop
 #### **Blinkit Sales and Operations**
 - Designed a robust e-commerce dashboard for Blinkit using Power BI, DAX, and MySQL, achieving 30% improved sales forecasting accuracy and a 25% reduction in service delays. Delivered actionable insights through interactive visualizations, enhancing logistics and stakeholder decision-making.
 
-#### **Predicting News Popularity**
-- Designed a deep learning model with DenseNet201 for image classification, achieving 80% accuracy through transfer learning.
+#### **Credit Card Rejections with Machine Learning**
+- Developed a machine learning pipeline to predict credit card rejections using Logistic Regression and Random Forest, achieving robust accuracy through data preprocessing, feature scaling, and hyperparameter optimization. Enhanced model reliability with cross-validation and tackled challenges like missing data and class imbalances.
 
 ---
 
