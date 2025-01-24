@@ -42,7 +42,7 @@ I'm curently interested into everything that is around data science models: MLop
                                 
 
 ### 🔬 **Professional Experience**
-#### **Business Intelligence Analyst** - *By The Book*
+#### **Business Intelligence Analyst** 
 - Improved quarterly sales forecast accuracy by 25% using SQL and Power BI, and optimized marketing strategies with GCP BigQuery, boosting sales by 15%.
   
 #### **Lead Operations Analyst** - *UIC CAMPUS RECREATION*
