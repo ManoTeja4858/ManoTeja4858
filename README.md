@@ -35,16 +35,15 @@ I'm curently interested into everything that is around data science models: MLop
 
 ### 🔬 **Professional Experience**
 #### **Business Analyst** - *McKesson*
-- Developed and deployed a real-time healthcare data analytics dashboard using Python (Pandas, NumPy) and Tableau for
-visualizing patient data, improving decision-making for healthcare providers, reducing analysis time by 20 minutes per report.
+- •	Led cross-functional workshops with pharmacy operations, supply chain, and compliance teams to gather and document business requirements, resulting in the creation of detailed BRDs and FRDs that improved alignment across 5 departments and reduced reporting delays.
 - Created automated ETL pipelines with Apache Airflow to ingest and transform large volumes of healthcare data from AWS S3
 to Redshift, reducing manual processing time by 15 hours per week.
-- Optimized SQL queries in PostgreSQL for complex data aggregations, improving query execution speed by 30% and
-streamlining data access across McKesson’s healthcare data repositories.
-- Applied statistical analysis techniques (e.g., regression and hypothesis testing) to predict patient outcomes, improving the
-accuracy of forecasting models used in the clinical decision support system.
-- Implemented a machine learning model using Scikit-Learn to classify patient risk levels based on historical health data, achieving
-an accuracy rate of 87% in predicting patient readmission.
+- Transformed pharmaceutical supply chain analytics using SQL, Tableau, and Python (Pandas) to monitor drug distribution and inventory turnover, minimizing stockouts on high-demand medications.
+- Partnered with SMEs and IT to enhance claims adjudication and rebate processing workflows for Medicare Part D, reducing exception handling time and improving audit traceability.
+- Conducted pricing discrepancy analysis using WAC and NADAC data, uncovering over $4.5M in recoverable costs and influencing finance-driven pricing policy improvements.
+- Designed forecasting models in Excel (Power Query, VBA) and Python to predict drug demand and regulatory impacts, improving resource planning accuracy.
+- Supported data governance initiatives around HIPAA and DSCSA compliance, establishing metadata standards and lineage tracking for 100+ analytical assets.
+- Automated 340B contract validation logic via SQL, cutting manual review effort by 40% and strengthening compliance with federal drug pricing programs. 
   
 #### **Lead Operations Analyst** - *UIC CAMPUS RECREATION*
 - Led the development of a custom report generation tool in Power BI, aggregating recreation center data from multiple sources,
