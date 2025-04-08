@@ -3,10 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 🔍 Business Intelligence Specialist | Data Analyst | 📊 Data Scientist | Tableau Consultant | 💻 ML Engineer 
 
-Analyst with 4+ years of experience, including a recent graduate degree in Management Information Systems. Passion about data-driven insights, Feel free to explore my repositories, where you'll find projects showcasing my skills and dedication to transforming raw data into actionable insights. Let's connect and collaborate on creating impactful solutions!
-I'm a Data Science Analyst with a strong background in MLops, cloud architecture, data analysis, model optimization, deployment pipelines, scalable API design for AI services, data visualization, time-series analysis and NLP/NLU tasks, both for research or industry
-
-I'm curently interested into everything that is around data science models: MLops, data engineering, DevOps and code quality, model integration/deployements via CICDs, etc.
+Certified Business Analyst with over 4 years of experience driving data-informed decision-making across healthcare, financial services, and operations. Proven expertise in requirements gathering (BRD/FRD), KPI/ROI tracking, financial modeling, and regulatory compliance (HIPAA, DSCSA, 340B, KYC). Skilled at using SQL, Python, R, Tableau, Power BI, and Excel VBA to automate reporting, optimize workflows, and deliver actionable insights. Collaborating with cross-functional teams to align business goals with analytical solutions, improve data governance, and support strategic planning. Strong understanding of both Agile and Waterfall methodologies with hands-on experience in UAT coordination, stakeholder analysis, and root cause investigations.
 
 ---
 
