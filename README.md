@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 🔍 Business Intelligence Specialist | Data Analyst | 📊 Data Scientist | Tableau Consultant | 💻 ML Engineer 
 
-Analyst with 4.5 years of experience, including a recent graduate degree in Management Information Systems. Passion about data-driven insights, Feel free to explore my repositories, where you'll find projects showcasing my skills and dedication to transforming raw data into actionable insights. Let's connect and collaborate on creating impactful solutions!
+Analyst with 4+ years of experience, including a recent graduate degree in Management Information Systems. Passion about data-driven insights, Feel free to explore my repositories, where you'll find projects showcasing my skills and dedication to transforming raw data into actionable insights. Let's connect and collaborate on creating impactful solutions!
 I'm a Data Science Analyst with a strong background in MLops, cloud architecture, data analysis, model optimization, deployment pipelines, scalable API design for AI services, data visualization, time-series analysis and NLP/NLU tasks, both for research or industry
 
 I'm curently interested into everything that is around data science models: MLops, data engineering, DevOps and code quality, model integration/deployements via CICDs, etc.
@@ -34,7 +34,7 @@ I'm curently interested into everything that is around data science models: MLop
                                 
 
 ### 🔬 **Professional Experience**
-#### **Software Engineer / Data Analyst** - *McKesson*
+#### **Business Analyst** - *McKesson*
 - Developed and deployed a real-time healthcare data analytics dashboard using Python (Pandas, NumPy) and Tableau for
 visualizing patient data, improving decision-making for healthcare providers, reducing analysis time by 20 minutes per report.
 - Created automated ETL pipelines with Apache Airflow to ingest and transform large volumes of healthcare data from AWS S3
@@ -58,7 +58,7 @@ team to track real-time attendance trends and improve resource allocation for ov
 - Deployed a user feedback analysis tool using Python (Text Analytics with Pandas) to process over 1,000 student feedback
 responses, extracting actionable insights to enhance student experience in recreation programs.
 
-#### **Data Analyst** - *KPMG*
+#### **Business Analyst** - *KPMG*
 - Engineered financial forecasting models using Python (Scikit-Learn) and SQL for KPMG’s clients, predicting market trends for
 the next quarter and achieving a 92% accuracy rate in financial predictions for client portfolios.
 - Automated data extraction processes from MongoDB to AWS S3, reducing manual intervention by 10 hours per week and
