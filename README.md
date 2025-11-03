@@ -38,16 +38,14 @@ Senior Data Scientist with over 5 years of experience designing and deploying en
                                 
 
 ### 🔬 **Professional Experience**
-#### **Business Analyst** - *McKesson*
-- •	Led cross-functional workshops with pharmacy operations, supply chain, and compliance teams to gather and document business requirements, resulting in the creation of detailed BRDs and FRDs that improved alignment across 5 departments and reduced reporting delays.
-- Created automated ETL pipelines with Apache Airflow to ingest and transform large volumes of healthcare data from AWS S3
-to Redshift, reducing manual processing time by 15 hours per week.
-- Transformed pharmaceutical supply chain analytics using SQL, Tableau, and Python (Pandas) to monitor drug distribution and inventory turnover, minimizing stockouts on high-demand medications.
-- Partnered with SMEs and IT to enhance claims adjudication and rebate processing workflows for Medicare Part D, reducing exception handling time and improving audit traceability.
-- Conducted pricing discrepancy analysis using WAC and NADAC data, uncovering over $4.5M in recoverable costs and influencing finance-driven pricing policy improvements.
-- Designed forecasting models in Excel (Power Query, VBA) and Python to predict drug demand and regulatory impacts, improving resource planning accuracy.
-- Supported data governance initiatives around HIPAA and DSCSA compliance, establishing metadata standards and lineage tracking for 100+ analytical assets.
-- Automated 340B contract validation logic via SQL, cutting manual review effort by 40% and strengthening compliance with federal drug pricing programs. 
+#### **Machine Learning Engineer** - *McKesson*
+- Built automated ETL pipelines using Apache Airflow to process 10M+ patient records weekly from AWS S3 to Redshift, ensuring HIPAA compliance and eliminating manual workflows for cross-functional analytics teams.
+- Designed and deployed real-time Tableau dashboards with Python (Pandas, NumPy) to visualize patient demographics and treatment trends, reducing report turnaround time by 20 minutes and enabling proactive care decisions.
+- Developed ML models using XGBoost, LightGBM, and Scikit-Learn for fraud and readmission risk detection, achieving 0.85+ AUC and reducing false positives by 60%, improving trust in predictive insights.
+- Optimized SQL queries and data aggregation in PostgreSQL and Snowflake, cutting average query execution time from 45s to 30s, accelerating insights for 200+ clinical and business users.
+- Engineered scalable pipelines on Azure Data Factory, Databricks, and PySpark, enhancing data preprocessing by 40% and reducing credit-risk reporting time from 72 to 8 hours through automation.
+- Implemented CI/CD workflows for ML models using Kubeflow and MLflow, reducing deployment cycles by 40% and enabling seamless versioning, rollback, and model governance across production environments.
+- Designed and led A/B testing frameworks using statistical hypothesis testing, measuring business impact of 12 model deployments through automated Tableau reports.
   
 #### **Lead Operations Analyst** - *UIC CAMPUS RECREATION*
 - Led the development of a custom report generation tool in Power BI, aggregating recreation center data from multiple sources,
