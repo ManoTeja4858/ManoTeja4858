@@ -59,7 +59,7 @@ team to track real-time attendance trends and improve resource allocation for ov
 - Deployed a user feedback analysis tool using Python (Text Analytics with Pandas) to process over 1,000 student feedback
 responses, extracting actionable insights to enhance student experience in recreation programs.
 
-#### **Business Analyst** - *KPMG*
+#### **Data Scientist** - *KPMG*
 - Engineered financial forecasting models using Python (Scikit-Learn) and SQL for KPMG’s clients, predicting market trends for
 the next quarter and achieving a 92% accuracy rate in financial predictions for client portfolios.
 - Automated data extraction processes from MongoDB to AWS S3, reducing manual intervention by 10 hours per week and
