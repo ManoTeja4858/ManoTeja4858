@@ -1,18 +1,25 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Everyone Welcome to my Github🚀
 ================================================================================================================================================ 
 
-## 🔍 Business Intelligence Specialist | Data Analyst | 📊 Data Scientist | Tableau Consultant | 💻 ML Engineer 
+## 💻 ML Engineer  | 📊 Data Scientist |🔍Data Analyst | Tableau Consultant 
 
-Certified Business Analyst with over 4 years of experience driving data-informed decision-making across healthcare, financial services, and operations. Proven expertise in requirements gathering (BRD/FRD), KPI/ROI tracking, financial modeling, and regulatory compliance (HIPAA, DSCSA, 340B, KYC). Skilled at using SQL, Python, R, Tableau, Power BI, and Excel VBA to automate reporting, optimize workflows, and deliver actionable insights. Collaborating with cross-functional teams to align business goals with analytical solutions, improve data governance, and support strategic planning. Strong understanding of both Agile and Waterfall methodologies with hands-on experience in UAT coordination, stakeholder analysis, and root cause investigations.
+Senior Data Scientist with over 5 years of experience designing and deploying enterprise-scale ML and AI systems across finance, healthcare, and technology sectors. Delivered over $2.5M in annual savings by automating analytics pipelines and implementing high-accuracy predictive models that improved operational efficiency and decision-making. Expert in LLM fine-tuning, multi-agent AI systems, and MLOps using AWS, PyTorch, and Kubernetes. A strategic leader known for transforming complex research into scalable, ethical, and production-ready solutions that power data-driven innovation and impact millions of users.
+
 
 ---
 
 ### 🧠 **Skills & Technologies**
-- **Programming Languages**: Python 🐍, Java ☕, R, SQL, Excel,R, SQL,
-- **ML & AI Frameworks**: Scikit-Learn, TensorFlow, PyTorch, IBM watsonx.ai
-- **Cloud & Data**: Snowflake, Microsoft Azure*, Google GenAI, FAISS
-- **Data Visualization**: PowerBI, Tableau, Matplotlib 📊, Seaborn
-- **Machine Learning Techniques**: Regression, Classification, ANN, CNN, RNN, Transfer Learning, Transformers
+
+
+- **Programming & Statistics**: Python (NumPy, Pandas), R, Java, Scala, C++, Bayesian Methods, ANOVA, Data Cleaning, Data Wrangling
+- **Machine Learning & AI**: Deep Learning, NLP, Computer Vision, Time Series Forecasting, Reinforcement Learning, LLM Fine-tuning, PEFT (LoRA/QLoRA), Graph RAG, Multi-Agent Systems, Statistical Modeling, Conversational AI
+- **ML Frameworks**: PyTorch, TensorFlow, Scikit-learn, XGBoost, LightGBM, Hugging Face, Keras
+- **Agentic AI**: LangChain, LangGraph, AutoGen, CrewAI, Multi-Agent Orchestration 
+- **Cloud & DevOps**: AWS (SageMaker, Bedrock, EC2, S3, Lambda), Azure (ML Studio, OpenAI Service), Docker, Kubernetes, MLflow, Kubeflow, Terraform, Jupyter Notebook, Git, VS Code 
+- **Data Engineering**: Apache Spark, Apache Hadoop (MapReduce, HDFS), Kafka, Airflow, ETL/ELT Pipelines, Data Governance 
+- **Databases**: SQL (MySQL, PostgreSQL, Oracle), MongoDB, Hive, Redis, Snowflake, Vector Databases (Pinecone, Weaviate, Qdrant)
+-	**Analytics & Visualization**: Tableau, Looker, Excel, Power BI, EDA, Alteryx, Matplotlib, Plotly, D3.js, React, FastAPI, REST APIs
+
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
