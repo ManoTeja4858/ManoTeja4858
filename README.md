@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Everyone Welcome to my Github🚀
 ================================================================================================================================================ 
 
-## 💻 ML Engineer  | 📊 Data Scientist |🔍Data Analyst | Tableau Consultant 
+## 💻 Business Analyst  | 📊 Data Scientist |🔍Data Analyst | Tableau Consultant 
 
-Senior Data Scientist with over 5 years of experience designing and deploying enterprise-scale ML and AI systems across finance, healthcare, and technology sectors. Delivered over $2.5M in annual savings by automating analytics pipelines and implementing high-accuracy predictive models that improved operational efficiency and decision-making. Expert in LLM fine-tuning, multi-agent AI systems, and MLOps using AWS, PyTorch, and Kubernetes. A strategic leader known for transforming complex research into scalable, ethical, and production-ready solutions that power data-driven innovation and impact millions of users.
+Senior Business Analyst with over 5 years of experience designing and deploying enterprise-scale ML and AI systems across finance, healthcare, and technology sectors. Delivered over $2.5M in annual savings by automating analytics pipelines and implementing high-accuracy predictive models that improved operational efficiency and decision-making. Expert in LLM fine-tuning, multi-agent AI systems, and MLOps using AWS, PyTorch, and Kubernetes. A strategic leader known for transforming complex research into scalable, ethical, and production-ready solutions that power data-driven innovation and impact millions of users.
 
 
 ---
@@ -38,7 +38,7 @@ Senior Data Scientist with over 5 years of experience designing and deploying en
                                 
 
 ### 🔬 **Professional Experience**
-#### **Machine Learning Engineer** - *McKesson*
+#### **Business Analyst** - *McKesson*
 - Built automated ETL pipelines using Apache Airflow to process 10M+ patient records weekly from AWS S3 to Redshift, ensuring HIPAA compliance and eliminating manual workflows for cross-functional analytics teams.
 - Designed and deployed real-time Tableau dashboards with Python (Pandas, NumPy) to visualize patient demographics and treatment trends, reducing report turnaround time by 20 minutes and enabling proactive care decisions.
 - Developed ML models using XGBoost, LightGBM, and Scikit-Learn for fraud and readmission risk detection, achieving 0.85+ AUC and reducing false positives by 60%, improving trust in predictive insights.
@@ -59,7 +59,7 @@ team to track real-time attendance trends and improve resource allocation for ov
 - Deployed a user feedback analysis tool using Python (Text Analytics with Pandas) to process over 1,000 student feedback
 responses, extracting actionable insights to enhance student experience in recreation programs.
 
-#### **Data Scientist** - *KPMG*
+#### **Business Analyst** - *KPMG*
 - Engineered financial forecasting models using Python (Scikit-Learn) and SQL for KPMG’s clients, predicting market trends for
 the next quarter and achieving a 92% accuracy rate in financial predictions for client portfolios.
 - Automated data extraction processes from MongoDB to AWS S3, reducing manual intervention by 10 hours per week and
