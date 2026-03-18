@@ -13,9 +13,6 @@ Business Analyst/ Scrum Master/ Power BI Specialist with 4+ years of experience 
 
 
 - **Programming & Statistics**: Python (NumPy, Pandas), R, Java, Scala, C++, Bayesian Methods, ANOVA, Data Cleaning, Data Wrangling
-- **Machine Learning & AI**: Deep Learning, NLP, Computer Vision, Time Series Forecasting, Reinforcement Learning, LLM Fine-tuning, PEFT (LoRA/QLoRA), Graph RAG, Multi-Agent Systems, Statistical Modeling, Conversational AI
-- **ML Frameworks**: PyTorch, TensorFlow, Scikit-learn, XGBoost, LightGBM, Hugging Face, Keras
-- **Agentic AI**: LangChain, LangGraph, AutoGen, CrewAI, Multi-Agent Orchestration 
 - **Cloud & DevOps**: AWS (SageMaker, Bedrock, EC2, S3, Lambda), Azure (ML Studio, OpenAI Service), Docker, Kubernetes, MLflow, Kubeflow, Terraform, Jupyter Notebook, Git, VS Code 
 - **Data Engineering**: Apache Spark, Apache Hadoop (MapReduce, HDFS), Kafka, Airflow, ETL/ELT Pipelines, Data Governance 
 - **Databases**: SQL (MySQL, PostgreSQL, Oracle), MongoDB, Hive, Redis, Snowflake, Vector Databases (Pinecone, Weaviate, Qdrant)
