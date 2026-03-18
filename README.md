@@ -3,7 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 💻 Business Analyst  | 📊 Data Scientist |🔍Data Analyst | Power BI Developer | BI Analyst
 
-Senior Business Analyst with over 5 years of experience designing and deploying enterprise-scale ML and AI systems across finance, healthcare, and technology sectors. Delivered over $2.5M in annual savings by automating analytics pipelines and implementing high-accuracy predictive models that improved operational efficiency and decision-making. Expert in LLM fine-tuning, multi-agent AI systems, and MLOps using AWS, PyTorch, and Kubernetes. A strategic leader known for transforming complex research into scalable, ethical, and production-ready solutions that power data-driven innovation and impact millions of users.
+Business Analyst/ Scrum Master/ Power BI Specialist with 4+ years of experience delivering data-driven solutions across healthcare, pharma, and financial sectors using SQL, Python, Tableau, Power BI, and Excel. Supported data governance initiatives around HIPAA and DSCSA compliance, establishing metadata standards and lineage tracking for 100+ analytical assets. Built predictive models and dashboards to support operations, pricing, forecasting, and marketing using Python, R, Power BI, and Excel VBA, reducing manual efforts and driving insights. Proficient in SDLC, Agile/Scrum methodologies, BRD/FRD documentation, and regulatory analytics with expertise in tools like JIRA, SQL, PowerBI, and Power Query
+
 
 
 ---
