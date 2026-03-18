@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Everyone Welcome to my Github🚀
 ================================================================================================================================================ 
 
-## 💻 Business Analyst  | 📊 Data Scientist |🔍Data Analyst | Tableau Consultant 
+## 💻 Business Analyst  | 📊 Data Scientist |🔍Data Analyst | Power BI Developer | BI Analyst
 
 Senior Business Analyst with over 5 years of experience designing and deploying enterprise-scale ML and AI systems across finance, healthcare, and technology sectors. Delivered over $2.5M in annual savings by automating analytics pipelines and implementing high-accuracy predictive models that improved operational efficiency and decision-making. Expert in LLM fine-tuning, multi-agent AI systems, and MLOps using AWS, PyTorch, and Kubernetes. A strategic leader known for transforming complex research into scalable, ethical, and production-ready solutions that power data-driven innovation and impact millions of users.
 
