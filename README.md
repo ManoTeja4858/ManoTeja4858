@@ -89,6 +89,7 @@ ensuring seamless data transfer across global teams.
 
 ### 🏆 **Certifications**
 - Professional Scrum Master Certification I(PSM-I) -Scurm.org
+- Microsoft Certified: Power BI Data Analyst Associate                                                                     
 - SQL - MySQL for Data Analytics and Business Intelligence - Udemy
 - Tableau Data Analyst/Specialist Desktop - Udemy
 
