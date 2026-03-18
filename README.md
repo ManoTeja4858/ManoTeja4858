@@ -38,13 +38,12 @@ Senior Business Analyst with over 5 years of experience designing and deploying 
                                 
 
 ### 🔬 **Professional Experience**
-#### **Business Analyst** - *McKesson*
-- Built automated ETL pipelines using Apache Airflow to process 10M+ patient records weekly from AWS S3 to Redshift, ensuring HIPAA compliance and eliminating manual workflows for cross-functional analytics teams.
-- Designed and deployed real-time Tableau dashboards with Python (Pandas, NumPy) to visualize patient demographics and treatment trends, reducing report turnaround time by 20 minutes and enabling proactive care decisions.
-- Developed ML models using XGBoost, LightGBM, and Scikit-Learn for fraud and readmission risk detection, achieving 0.85+ AUC and reducing false positives by 60%, improving trust in predictive insights.
-- Optimized SQL queries and data aggregation in PostgreSQL and Snowflake, cutting average query execution time from 45s to 30s, accelerating insights for 200+ clinical and business users.
-- Engineered scalable pipelines on Azure Data Factory, Databricks, and PySpark, enhancing data preprocessing by 40% and reducing credit-risk reporting time from 72 to 8 hours through automation.
-- Implemented CI/CD workflows for ML models using Kubeflow and MLflow, reducing deployment cycles by 40% and enabling seamless versioning, rollback, and model governance across production environments.
+#### **Business Analyst** 
+- Led cross-functional workshops with operations, supply chain, and compliance stakeholders to gather and document business requirements, creating BRDs and FRDs that improved alignment across 5 teams and reduced reporting delays.
+- Used PowerBI, and Python (Pandas) to analyze supply chain and inventory data, improving visibility into product movement and supporting faster decisions on high-demand items.
+- Partnered with SMEs and IT teams to review workflow gaps, improve process tracking, and reduce exception handling time through clearer business rules and reporting support.
+- Conducted pricing and data discrepancy analysis across large datasets, identifying cost and reporting gaps and supporting finance-driven process improvements.
+- Built forecasting and planning models in Excel (Power Query, VBA) and Python to support demand trends, business planning, and operational readiness.
 - Designed and led A/B testing frameworks using statistical hypothesis testing, measuring business impact of 12 model deployments through automated Tableau reports.
   
 #### **Lead Operations Analyst** - *UIC CAMPUS RECREATION*
@@ -54,8 +53,8 @@ enabling the team to access key performance metrics for 15+ programs within seco
 reducing planning errors by streamlining scheduling processes.
 - Streamlined data collection and reporting using Excel Power Query to automate weekly reports, saving over 5 hours per week of
 manual work.
-- Collaborated with stakeholders to define KPIs and visualized those metrics through Google Data Studio, enabling the operations
-team to track real-time attendance trends and improve resource allocation for over 10,000 students.
+- Collaborated with stakeholders to define KPIs and visualized those metrics, enabling the operations
+team to track real-time attendance trends and improve resource allocation.
 - Deployed a user feedback analysis tool using Python (Text Analytics with Pandas) to process over 1,000 student feedback
 responses, extracting actionable insights to enhance student experience in recreation programs.
 
@@ -64,12 +63,10 @@ responses, extracting actionable insights to enhance student experience in recre
 the next quarter and achieving a 92% accuracy rate in financial predictions for client portfolios.
 - Automated data extraction processes from MongoDB to AWS S3, reducing manual intervention by 10 hours per week and
 ensuring seamless data transfer across global teams.
-- Conducted detailed statistical analysis on market trends using R to assist clients in optimizing their investment strategies,
-producing reports that impacted decision-making for investments valued at over $50 million.
-- Created real-time data visualizations using Tableau to display market insights and portfolio performance, improving client
-satisfaction and providing actionable insights for over 100 clients.
-- Integrated machine learning algorithms with client databases to predict stock price fluctuations, resulting in a 10% improvement
-in portfolio growth over six months for clients.
+- Automated monthly reporting processes using Power Query and VBA macros, reducing manual effort by 75% and cutting reporting turnaround time from 2 days to 4 hours.
+- Conducted 10+ gap to optimize billing workflows, improving operational compliance by 18% and saving ~$100K annually in process inefficiencies.
+- Led UAT cycles for 5+ enterprise analytics tools by coordinating with 20+ stakeholders, ensuring solution adoption and seamless integration with business processes.
+
 
 ---
 
